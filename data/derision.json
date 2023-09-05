@@ -1,0 +1,17 @@
+{
+    "id": 371,
+    "name": "Derision",
+    "author": "Rae",
+    "creators": [],
+    "verifier": "Rae",
+    "verification": "https://youtu.be/IRwSfklXpQI?si=iCuLLJUVzatO3SXa",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/khm0e0SZjgM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 398,
+    "name": "Toxic x Obsession",
+    "author": "Rin",
+    "creators": [],
+    "verifier": "Rin",
+    "verification": "https://www.youtube.com/watch?v=hS-QCj9fWEM&list=PLLLxi2t5RuPZ0ZHVH6j9_n-6p_znoqae3&index=21",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/9MOII6ggaes",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

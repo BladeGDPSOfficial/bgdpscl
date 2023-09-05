@@ -1,0 +1,17 @@
+{
+    "id": 357,
+    "name": "windowed4",
+    "author": "Rae",
+    "creators": [],
+    "verifier": "Rae",
+    "verification": "https://youtu.be/EkI0ElBcvCc?si=rAQFED01Hyr-ii4-",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/aUX8dTlUAHY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

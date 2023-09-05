@@ -1,0 +1,17 @@
+{
+    "id": 361,
+    "name": "iran chamber",
+    "author": "Rae",
+    "creators": [],
+    "verifier": "Rae",
+    "verification": "https://youtu.be/fMK8g_oZ1gc?si=UdnhKxFiKK_9r0lp",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/P21w_LT6KAU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
