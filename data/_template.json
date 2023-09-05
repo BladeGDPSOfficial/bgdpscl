@@ -6,5 +6,12 @@
     "verifier": "Verifier",
     "verification": "Link",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Record Holder",
+            "link": "Verideo Link",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }

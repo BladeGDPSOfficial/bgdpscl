@@ -1,0 +1,17 @@
+{
+    "id": 367,
+    "name": "terebigemu",
+    "author": "Rae",
+    "creators": ["Raezori"],
+    "verifier": "Rae",
+    "verification": "https://youtu.be/-Yf3nyCzhCM?si=hEywrvr6fVbPK6Ja",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/8erfqHy5DB4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
