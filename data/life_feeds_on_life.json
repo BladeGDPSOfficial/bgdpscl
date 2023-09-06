@@ -1,0 +1,17 @@
+{
+    "id": 401,
+    "name": "life feeds on life",
+    "author": "cinderrblock",
+    "creators": [],
+    "verifier": "cinderrblock",
+    "verification": "https://youtu.be/ffKAHlA3qaE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/aH_SbJg5Ne8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
