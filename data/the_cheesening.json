@@ -6,5 +6,12 @@
     "verifier": "evil",
     "verification": "https://youtu.be/3W54UUOG5LM?si=ieNYkvbz8iEKv0XR",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Rin",
+            "link": "https://cdn.discordapp.com/attachments/1148741371532935241/1148775089622491156/The_Cheesening_Completion.mp4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
