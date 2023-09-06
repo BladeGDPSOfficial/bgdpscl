@@ -6,5 +6,12 @@
     "verifier": "evil",
     "verification": "https://youtu.be/QmEMrQYj54o",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "LiMao",
+            "link": "https://youtu.be/rDoThZr0mO8?si=ZO-rbv2LMq8xdM0I",
+            "percent": 100,
+            "hz": 280
+        }
+    ]
 }
