@@ -6,5 +6,12 @@
     "verifier": "evil",
     "verification": "https://youtu.be/BlK0dVA-zXQ",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Rin",
+            "link": "https://cdn.discordapp.com/attachments/1148741371532935241/1152462482904993832/Dylpickel_Challenge_Completion.mp4",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
