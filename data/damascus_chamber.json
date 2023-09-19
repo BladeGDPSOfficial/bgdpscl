@@ -6,5 +6,12 @@
     "verifier": "pewdiepiereal1",
     "verification": "https://youtu.be/iS1ldr1JriE",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/zEtg_T5wfg8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
