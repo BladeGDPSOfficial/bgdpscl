@@ -6,5 +6,12 @@
     "verifier": "Rin",
     "verification": "https://www.youtube.com/watch?v=3yQJEkoy-wY",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "asterios88",
+            "link": "https://cdn.discordapp.com/attachments/1148741371532935241/1161489761568034847/image.png?ex=65387ca2&is=652607a2&hm=2fee4a63738bd37635d97f2b13f0f3999d2a26df7943489a38dbb332648a2c29&",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
