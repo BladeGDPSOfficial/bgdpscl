@@ -6,5 +6,12 @@
     "verifier": "Rae",
     "verification": "https://www.youtube.com/watch?v=yeI-loimpQQ",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Rin",
+            "link": "https://www.youtube.com/watch?v=wc4-yX78xD0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
