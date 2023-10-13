@@ -6,5 +6,18 @@
     "verifier": "evil",
     "verification": "https://youtu.be/151dTlmHLnc?si=YAkiGh8kBOKDSOgL",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "asterios88",
+            "link": "https://discord.com/channels/923026827281317919/1148741371532935241/1161527807369805925",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Rin",
+            "link": "https://discord.com/channels/923026827281317919/1148741371532935241/1161753615342501919",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
