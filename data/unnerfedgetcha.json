@@ -6,5 +6,12 @@
     "verifier": "Forseti",
     "verification": "https://youtu.be/A9miF2YECrs",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://discord.com/channels/923026827281317919/1148741371532935241/1166876492316295260",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
