@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=vho7RS17vGM",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Rin",
+            "link": "https://youtube.com/shorts/cnCoO0oCkq4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
