@@ -6,5 +6,12 @@
     "verifier": "Rae",
     "verification": "https://youtu.be/0zDJtr7SmlA",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "cinderrblock",
+            "link": "https://youtu.be/--wBTjTqIwQ",
+            "percent": 100,
+            "hz": 99.99
+        }
+    ]
 }
