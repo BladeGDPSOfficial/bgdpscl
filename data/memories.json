@@ -6,5 +6,12 @@
     "verifier": "Rin",
     "verification": "https://youtu.be/tldt4ylgrng?si=OMEOAi1lsrP_M1-S",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/LgRXgUIuYww",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
