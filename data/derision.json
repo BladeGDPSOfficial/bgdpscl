@@ -37,9 +37,15 @@
             "percent": 100,
             "hz": 360
         },
-          {
+        {
             "user": "whitmp4",
             "link": "https://www.youtube.com/watch?v=58OlDM-5EQI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Derision",
+            "link": "https://youtu.be/bh51sSjwdVA?si=YsIjWN1I2r9yrxg4&t=41",
             "percent": 100,
             "hz": 360
         }
