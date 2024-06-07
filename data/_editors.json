@@ -7,11 +7,21 @@
     {
         "role": "owner",
         "name": "Rin",
-        "link": "https://www.youtube.com/@raezori"
+        "link": "https://www.youtube.com/@akuriserv"
     },
     {
         "role": "helper",
         "name": "whitmp4",
         "link": "https://www.youtube.com/@whitmp4"
+    },
+    {
+        "role": "helper",
+        "name": "Li Mao",
+        "link": "https://www.youtube.com/@li_mao"
+    },
+    {
+        "role": "helper",
+        "name": "DeepStrider2",
+        "link": "https://www.youtube.com/@deepstrider2"
     }
 ]
