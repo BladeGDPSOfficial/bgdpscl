@@ -1,1 +1,23 @@
-
+{
+    "id": 699,
+    "name": "bro what",
+    "author": "cinderrblock",
+    "creators": [],
+    "verifier": "cinderrblock",
+    "verification": "https://youtu.be/1USUxoaoZUk",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/frUqRFKSiNs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Rin",
+            "link": "https://youtu.be/omfpSbOi-lc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
