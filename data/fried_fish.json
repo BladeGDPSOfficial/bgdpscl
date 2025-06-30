@@ -6,5 +6,12 @@
     "verifier": "HamsterPlayz",
     "verification": "https://www.youtube.com/watch?v=eFXBm34PhjE",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/PKbDppue86s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
